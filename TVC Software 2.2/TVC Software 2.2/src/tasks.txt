@@ -1,0 +1,36 @@
+1. Add button support                   +++
+2. Add Data logging                     +++
+3. Test/implement Pyro circuit          +++
+4. Add mpu9250                              //
+5. Add Servos  !                        +++
+6, Add PID     !                        +++
+7. Add RTC                                  //
+8. Add ejection timing state estimation  !
+9. Solder PCB
+10. Add to Rocket
+11. Test
+12. PID control tune
+13. Test ejection charge
+14. Launch
+
+
+
+
+while (Serial1.available() > 0)
+
+
+
+//////////         GPS Altitude ?
+
+
+
+
+Add second bno055
+Check GPS blocking
+Add Servos
+Add PID
+Add overall functions and Ejection charge timing
+solder board
+test ejection
+integrate Rocket
+launch
