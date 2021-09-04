@@ -1,0 +1,20 @@
+~~    PLAN FOR V2 SOFTWARE    ~~
+
+ROBERT J. KIRK  ~  Sept. 4, 2021
+--------------------------------
+
+
+Main.cpp 
+    L StateMachine.cpp
+        L ReadSensors.cpp
+        L WriteData.cpp
+        L UpdateGimbal.cpp
+        L StatusIndicate.cpp
+    
+
+
+
+
+
+
+
